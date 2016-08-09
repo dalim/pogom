@@ -1,1 +1,1 @@
-web: python runserver.py -H 0.0.0.0 -P 5001
+web: python runserver.py -H $HOST -P $PORT
